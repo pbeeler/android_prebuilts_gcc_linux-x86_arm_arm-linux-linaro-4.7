@@ -15,9 +15,7 @@
 LOCAL_PATH := $(call my-dir)
 
 LOCAL_PREBUILT_LIBS := \
-	libbfd.a \
-	libiberty.a \
-	libintl.a
+	libiberty.a
 
 LOCAL_MODULE_TAGS := optional
 

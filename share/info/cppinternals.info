@@ -1,5 +1,5 @@
 This is doc/cppinternals.info, produced by makeinfo version 4.13 from
-/home/sparksco/android/google/build/../gcc/gcc-4.7/gcc/doc/cppinternals.texi.
+../.././../gcc/gcc-linaro-4.7-2012.10/gcc/doc/cppinternals.texi.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
@@ -1020,17 +1020,17 @@ Concept Index
 
 
 Tag Table:
-Node: Top999
-Node: Conventions2684
-Node: Lexer3626
-Ref: Invalid identifiers11539
-Ref: Lexing a line13488
-Node: Hash Nodes18261
-Node: Macro Expansion21140
-Node: Token Spacing30087
-Node: Line Numbering35947
-Node: Guard Macros40032
-Node: Files44823
-Node: Concept Index48289
+Node: Top986
+Node: Conventions2671
+Node: Lexer3613
+Ref: Invalid identifiers11526
+Ref: Lexing a line13475
+Node: Hash Nodes18248
+Node: Macro Expansion21127
+Node: Token Spacing30074
+Node: Line Numbering35934
+Node: Guard Macros40019
+Node: Files44810
+Node: Concept Index48276
 
 End Tag Table
